@@ -1,3 +1,4 @@
+
 lcdResolution =
 {
     low = 0,
@@ -28,6 +29,7 @@ local supportedPlatforms = {
 local supportedRadios =
 {
     ["x7"] = supportedPlatforms.x7,
+    ["x7s"] = supportedPlatforms.x7,
     ["x9d"] = supportedPlatforms.x9,
     ["x9d+"] = supportedPlatforms.x9,
     ["x9e"] = supportedPlatforms.x9,
